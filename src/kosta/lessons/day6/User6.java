@@ -2,6 +2,7 @@ package kosta.lessons.day6;
 
 import java.math.BigDecimal;
 
+//Класс POJO с константами, приватными полями, геттерами и сеттерами
 public class User6
 {
     private long id;

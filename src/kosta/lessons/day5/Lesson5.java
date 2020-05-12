@@ -1,9 +1,8 @@
-/* При нажатии в консоли буквы А будет вызываться метод который присвоит User имя Боб, использовать класс Scaner*/
-
 package kosta.lessons.day5;
 
 import java.util.Scanner;
 
+// При нажатии в консоли буквы А будет вызываться метод который присвоит User имя Боб, использовать класс Scanner
 public class Lesson5
 {
     private String str = null;
